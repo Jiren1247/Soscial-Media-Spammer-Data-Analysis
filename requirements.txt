@@ -1,0 +1,14 @@
+dash
+Flask
+Flask-Compress
+itsdangerous
+Jinja2
+matplotlib
+numpy
+packaging
+pandas
+patsy
+pipreqs
+plotly
+dash_bootstrap_components
+dash_bootstrap_templates
